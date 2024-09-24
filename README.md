@@ -1,5 +1,3 @@
----
-
 # EDUCATIONAL:
 ## Cinematography / Lighting / Compositing
 - https://chrisbrejon.com/cg-cinematography/
