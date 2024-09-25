@@ -23,27 +23,11 @@
 > A comprehensive list of the best assets / storefronts / Addons / and products that make
 > [Blender](https://github.com/JettTurnerViz/Vizlab-Resources/blob/main/Blender.md)
 > the best tool for the developing computer graphics artist
-	
 
-
-# Unreal:
-> ## Plugins:
-> ### Material tool----
-> - https://github.com/ScottRaffertyCG/MaterialVault
-> ### Imposter generaton---
-> - https://github.com/ictusbrucks/ImpostorBaker
-> - https://github.com/GavinKG/ImposterGenerator
-> - https://vimeo.com/292696284
-> ### CitySample----
-> - https://dev.epicgames.com/documentation/en-us/unreal-engine/city-sample-project-unreal-engine-demonstration?application_version=5.0
-
-> ## Assets:
-> - https://www.realbiomes.com/
-	
-
-
-
-
+# Unreal Engine:
+> A small collection of useful tools for
+>  [UnrealEngine](https://github.com/JettTurnerViz/Vizlab-Resources/blob/main/Unreal.md)
+> : Unreal is an amazing tool, with industry leading documentation and tools, so little is necessary to enhance the experience.
 
 # Flow Map painter:
 - https://teckartist.com/?page_id=107
