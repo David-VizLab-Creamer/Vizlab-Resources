@@ -12,6 +12,7 @@
 > - https://www.artstation.com/tlsalswjddd
 > ## Topology
 > - https://www.artstation.com/alexmougenot
+> - https://www.artstation.com/artwork/vJKaRd
 > - https://www.artstation.com/artwork/Jre5Ea (Environment Topology)
 > ## Art of Animation
 > - https://characterdesignreferences.com/art-of-animation
