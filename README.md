@@ -1,5 +1,6 @@
 # EDUCATIONAL:
-[a link](https://github.com/JettTurnerViz/Vizlab-Resources/blob/main/Educational.md)
+> 	A collection of educational links for computer graphics
+> [Educational Resources](https://github.com/JettTurnerViz/Vizlab-Resources/blob/main/Educational.md)
 
 
 
