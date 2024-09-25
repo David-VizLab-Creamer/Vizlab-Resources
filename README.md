@@ -1,6 +1,4 @@
-```diff
-+ # EDUCATIONAL:
-```
+# EDUCATIONAL:
 ## Cinematography / Lighting / Compositing
 - https://chrisbrejon.com/cg-cinematography/
 - https://compositingmentor.com/2019/06/30/blacksmatch/
