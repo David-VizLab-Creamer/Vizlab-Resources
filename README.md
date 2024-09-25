@@ -313,3 +313,4 @@
 - https://gist.github.com/benfrankel/5332a90d681506292e973eab4efa91e8
 - https://casual-effects.com/data/
 - https://wetransfer.com/
+- https://en.wikipedia.org/wiki/Corn_dog
