@@ -58,7 +58,7 @@
 > - https://www.artstation.com/artwork/39b6zY
 
 
----
+
 
 # Reference
 > ## Materials INFO
@@ -86,66 +86,65 @@
 
 
 
----
 
 # Assets
-## CC0 Resorces sorted by quality:
-	awesome list of free to use public domain CC0 licensed assets from across the internet
-	CC0 = No copyright, 100% free to use for any purpose even commercially. [Learn more](https://creativecommons.org/publicdomain/zero/1.0/deed)
-- https://polyhaven.com/
-- https://quixel.com/plugins/
-- https://www.poliigon.com/search/free
-- https://rawcatalog.com/library/atlases/
-- https://www.thebasemesh.com/
-## Textures / Reference
-- https://www.sharetextures.com/
-- https://texture.ninja/
-- https://unsplash.com/
-- https://www.cgbookcase.com/textures
-- https://texturebox.com/free
-## Fonts
-- https://www.dafont.com/
-- https://fonts.adobe.com/
+> ## CC0 Resorces sorted by quality:
+> 	awesome list of free to use public domain CC0 licensed assets from across the internet
+> 	CC0 = No copyright, 100% free to use for any purpose even commercially. [Learn more](https://creativecommons.org/publicdomain/zero/1.0/deed)
+> - https://polyhaven.com/
+> - https://quixel.com/plugins/
+> - https://www.poliigon.com/search/free
+> - https://rawcatalog.com/library/atlases/
+> - https://www.thebasemesh.com/
+> ## Textures / Reference
+> - https://www.sharetextures.com/
+> - https://texture.ninja/
+> - https://unsplash.com/
+> - https://www.cgbookcase.com/textures
+> - https://texturebox.com/free
+> ## Fonts
+> - https://www.dafont.com/
+> - https://fonts.adobe.com/
 	
 # Getting Started:
-## Basics:
-- https://www.blender.org/
-- https://wonderunit.com/storyboarder/index.html
-- https://www.drawio.com/
-- https://krita.org/en/
-- https://www.darktable.org/
-- https://www.blackmagicdesign.com/products/davinciresolve
-- https://www.plasticity.xyz/
-- https://www.pureref.com/
-- http://www.boundingboxsoftware.com/materialize/
-- https://fspy.io/
-- https://www.cgtrader.com/albin
-- https://www.uv-packer.com/
-- https://renderhjs.net/shoebox/
+> ## Basics:
+> - https://www.blender.org/
+> - https://wonderunit.com/storyboarder/index.html
+> - https://www.drawio.com/
+> - https://krita.org/en/
+> - https://www.darktable.org/
+> - https://www.blackmagicdesign.com/products/davinciresolve
+> - https://www.plasticity.xyz/
+> - https://www.pureref.com/
+> - http://www.boundingboxsoftware.com/materialize/
+> - https://fspy.io/
+> - https://www.cgtrader.com/albin
+> - https://www.uv-packer.com/
+> - https://renderhjs.net/shoebox/
 	
-## Terrain And Trees:
-- https://www.world-machine.com/
-- https://quadspinner.com/Compare
-- https://www.bentley.com/software/e-on-software-free-downloads/
+> ## Terrain And Trees:
+> - https://www.world-machine.com/
+> - https://quadspinner.com/Compare
+> - https://www.bentley.com/software/e-on-software-free-downloads/
 	
-## Computer Essentials:
-- https://www.7-zip.org/download.html
-- https://mularahul.github.io/keyviz/
-- https://obsproject.com/
-- https://www.videolan.org/
-- https://windirstat.net/
+> ## Computer Essentials:
+> - https://www.7-zip.org/download.html
+> - https://mularahul.github.io/keyviz/
+> - https://obsproject.com/
+> - https://www.videolan.org/
+> - https://windirstat.net/
 	
-## 3D Printing:
-- https://ultimaker.com/software/ultimaker-cura/
+> ## 3D Printing:
+> - https://ultimaker.com/software/ultimaker-cura/
 	
-## Brushes And Imperfections:
-- https://www.adobe.com/products/photoshop/brushes.html?promoid=XKMMHH6G&mv=other
-- https://www.artstation.com/marketplace/p/oBorP/8250-alpha-and-brushes-for-zbrush-cgsphere-mega-bundle-90-discount-end-soon
-- https://www.artstation.com/marketplace/p/3yAy/free-surface-imperfections-pack
-- https://www.glennmeling.com/photo-and-photoshop/150-free-surface-imperfection-textures
-- https://www.glennmeling.com/
-- https://zarism.gumroad.com/l/lphnv
-- https://www.glennmeling.com/photo-and-photoshop
+> ## Brushes And Imperfections:
+> - https://www.adobe.com/products/photoshop/brushes.html?promoid=XKMMHH6G&mv=other
+> - https://www.artstation.com/marketplace/p/oBorP/8250-alpha-and-brushes-for-zbrush-cgsphere-mega-bundle-90-discount-end-soon
+> - https://www.artstation.com/marketplace/p/3yAy/free-surface-imperfections-pack
+> - https://www.glennmeling.com/photo-and-photoshop/150-free-surface-imperfection-textures
+> - https://www.glennmeling.com/
+> - https://zarism.gumroad.com/l/lphnv
+> - https://www.glennmeling.com/photo-and-photoshop
 
 
 ---
