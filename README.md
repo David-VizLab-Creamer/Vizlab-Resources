@@ -1,7 +1,7 @@
 # EDUCATIONAL:
-## Cinematography / Lighting / Compositing
-- https://chrisbrejon.com/cg-cinematography/
-- https://compositingmentor.com/2019/06/30/blacksmatch/
+> ## Cinematography / Lighting / Compositing
+> - https://chrisbrejon.com/cg-cinematography/
+> - https://compositingmentor.com/2019/06/30/blacksmatch/
 ## Level Design
 - https://book.leveldesignbook.com/
 -- https://docs.unrealengine.com/5.0/en-US/recommended-asset-naming-conventions-in-unreal-engine-projects/
