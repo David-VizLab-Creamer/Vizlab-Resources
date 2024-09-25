@@ -1,5 +1,5 @@
 # EDUCATIONAL:
-https://github.com/JettTurnerViz/Vizlab-Resources/blob/main/Educational.md
+[a link](https://github.com/JettTurnerViz/Vizlab-Resources/blob/main/Educational.md)
 
 
 
