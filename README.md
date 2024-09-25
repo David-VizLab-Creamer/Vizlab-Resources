@@ -8,7 +8,7 @@
 # Reference
 > 	A collection of 
 > [References](https://github.com/JettTurnerViz/Vizlab-Resources/blob/main/Refernce.md)
-> for materials, inspiration, and animation
+> for materials, anatomy, and animation
 
 
 
