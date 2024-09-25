@@ -1,6 +1,7 @@
 # EDUCATIONAL:
-> 	A collection of educational links for computer graphics
+> 	A collection of 
 > [Educational Resources](https://github.com/JettTurnerViz/Vizlab-Resources/blob/main/Educational.md)
+> for computer graphics, detailing everything from Cinematography / Lighting / Level Design / VFX / Shaders and Rendering / tutorials / and breakdowns
 
 # Reference
 > 	A collection of 
