@@ -9,6 +9,7 @@
 > - https://www.artstation.com/georgezaky108
 > - https://www.artstation.com/anatomy4sculptors
 > - https://www.artstation.com/follygon
+> - https://www.artstation.com/tlsalswjddd
 > ## Topology
 > - https://www.artstation.com/alexmougenot
 > - https://www.artstation.com/artwork/Jre5Ea (Environment Topology)
