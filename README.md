@@ -7,8 +7,8 @@
 
 # Reference
 > 	A collection of 
-> [References](https://github.com/JettTurnerViz/Vizlab-Resources/blob/main/Refernce.md)
-> for materials, anatomy, and animation
+> [Reference](https://github.com/JettTurnerViz/Vizlab-Resources/blob/main/Refernce.md)
+> for material shading, anatomy, and animation
 
 
 
