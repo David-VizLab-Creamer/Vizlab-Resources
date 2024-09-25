@@ -173,13 +173,13 @@
 > - https://github.com/vvoovv/blosm
 > - https://github.com/stuffmatic/fSpy-Blender
 > - https://tinynocky.gumroad.com/l/tinyeye
+> - https://edwardurena.gumroad.com/l/ramoo
+> - https://github.com/Radivarig/UvSquares
 > ### Fantastic
 > - https://github.com/EatTheFuture/camera_shakify
 > - https://github.com/EatTheFuture/compify
 > - https://github.com/EatTheFuture/camera_projector
 > - https://www.geoscatter.com/download.html#geo-scatter
-> - https://paveloliva.gumroad.com/l/buildify?layout=profile
-> - https://github.com/Radivarig/UvSquares
 > - https://github.com/MaximeHerpin/modular_tree/releases
 > - https://projects.blender.org/Mets/CloudRig
 > - https://hellfx.gumroad.com/l/digitallensdirt?layout=profile
