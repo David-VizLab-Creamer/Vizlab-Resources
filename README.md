@@ -94,6 +94,7 @@
 > - https://polyhaven.com/
 > - https://quixel.com/plugins/
 > - https://www.poliigon.com/search/free
+> - https://www.3dassets.one/#order=latest
 > - https://rawcatalog.com/library/atlases/
 > - https://www.thebasemesh.com/
 > ## Textures / Reference
@@ -105,6 +106,12 @@
 > ## Fonts
 > - https://www.dafont.com/
 > - https://fonts.adobe.com/
+> ## Sound:
+> - https://freesound.org/
+> - https://gdc.sonniss.com/
+> - https://studio.youtube.com/channel/UCHk6p2-7MaJssmX9NzaXtzw/music
+> ## IES Light Profiles
+> - https://ieslibrary.com/
 	
 # Getting Started:
 > ## Basics:
@@ -302,14 +309,11 @@
 # A good RenderFarm:
 - https://www.foxrenderfarm.com/
 
-# Uncategorized:
-- https://www.3dassets.one/#order=latest
-- https://physicallybased.info/
-- https://texture.ninja/
-- https://ieslibrary.com/
-- https://freesound.org/
-- https://online-fonts.com/use/free
-- https://gist.github.com/benfrankel/5332a90d681506292e973eab4efa91e8
+# Color Palette List
+- https://lospec.com/palette-list
+# McGuire Computer Graphics Archive
 - https://casual-effects.com/data/
+# Sending Files
 - https://wetransfer.com/
+# Highly Important
 - https://en.wikipedia.org/wiki/Corn_dog
