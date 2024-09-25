@@ -33,5 +33,5 @@
 > a collection of
 > [Bonus](https://github.com/JettTurnerViz/Vizlab-Resources/blob/main/Bonus.md)
 > , usefull things in no particular order such as
-> - ## McGuire Computer Graphics Archive
+> ## McGuire Computer Graphics Archive
 > - https://casual-effects.com/data/
