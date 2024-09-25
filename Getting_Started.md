@@ -30,6 +30,7 @@
 	
 > ## 3D Printing:
 > - https://ultimaker.com/software/ultimaker-cura/
+> - https://www.raise3d.com/download/
 	
 > ## Brushes And Imperfections:
 > - https://www.adobe.com/products/photoshop/brushes.html?promoid=XKMMHH6G&mv=other
