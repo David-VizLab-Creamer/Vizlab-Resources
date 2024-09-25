@@ -7,9 +7,9 @@
 
 # Color Palette List
 - https://lospec.com/palette-list
-# McGuire Computer Graphics Archive
-- https://casual-effects.com/data/
+
 # Sending Files
 - https://wetransfer.com/
+  
 # Highly Important
 - https://en.wikipedia.org/wiki/Corn_dog
