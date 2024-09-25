@@ -1,3 +1,4 @@
+$${\color{red}Red}$$
 # EDUCATIONAL:
 ## Cinematography / Lighting / Compositing
 - https://chrisbrejon.com/cg-cinematography/
@@ -57,6 +58,8 @@
 ## Intro to Simulating Character
 - https://www.artstation.com/artwork/39b6zY
 
+
+$${\color{green}Green}$$
 ---
 
 # Reference
