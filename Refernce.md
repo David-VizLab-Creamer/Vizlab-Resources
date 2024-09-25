@@ -14,6 +14,7 @@
 > - https://www.artstation.com/tlsalswjddd
 > - https://www.artstation.com/castroanimationstudio
 > - https://www.artstation.com/geosis093
+> - https://www.artstation.com/tycane3d
 > ## Topology
 > - https://www.artstation.com/alexmougenot
 > - https://www.artstation.com/artwork/vJKaRd
