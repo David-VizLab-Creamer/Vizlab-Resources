@@ -1,4 +1,4 @@
-$${\color{red}Red}$$
+$${\color{red}
 # EDUCATIONAL:
 ## Cinematography / Lighting / Compositing
 - https://chrisbrejon.com/cg-cinematography/
@@ -57,9 +57,9 @@ $${\color{red}Red}$$
 - https://www.artstation.com/artwork/zPwlwm (The best car modeler I have ever seen)
 ## Intro to Simulating Character
 - https://www.artstation.com/artwork/39b6zY
+}$$
 
-
-$${\color{green}Green}$$
+$${\color{green}
 ---
 
 # Reference
@@ -86,7 +86,11 @@ $${\color{green}Green}$$
 - https://felixcolgrave.myportfolio.com/
 - https://www.pixar.com/
 
+}$$
+
+$${\color{blue}
 ---
+
 #Assets
 ## CC0 Resorces sorted by quality:
 	awesome list of free to use public domain CC0 licensed assets from across the internet
@@ -145,7 +149,8 @@ $${\color{green}Green}$$
 - https://www.glennmeling.com/
 - https://zarism.gumroad.com/l/lphnv
 - https://www.glennmeling.com/photo-and-photoshop
-	
+
+}$$
 ---
 
 # Blender:
