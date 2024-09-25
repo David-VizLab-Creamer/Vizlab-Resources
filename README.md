@@ -6,8 +6,8 @@
 
 
 # Reference
-> ## Materials Info
-> - https://physicallybased.info/
+> 	A collection of references for materials, inspiration, and animation
+> [- https://physicallybased.info/](https://github.com/JettTurnerViz/Vizlab-Resources/blob/main/Refernce.md)
 > - https://spectraldb.com/
 > - https://midimagic.sgc-hosting.com/huvision.htm
 > - https://www.giangrandi.org/optics/eye/eye.shtml
