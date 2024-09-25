@@ -88,7 +88,7 @@
 
 ---
 
-#Assets
+# Assets
 ## CC0 Resorces sorted by quality:
 	awesome list of free to use public domain CC0 licensed assets from across the internet
 	CC0 = No copyright, 100% free to use for any purpose even commercially. [Learn more](https://creativecommons.org/publicdomain/zero/1.0/deed)
