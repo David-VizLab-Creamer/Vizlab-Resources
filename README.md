@@ -1,4 +1,4 @@
-$${\color{red} # EDUCATIONAL:}$$
+# EDUCATIONAL:
 ## Cinematography / Lighting / Compositing
 - https://chrisbrejon.com/cg-cinematography/
 - https://compositingmentor.com/2019/06/30/blacksmatch/
@@ -58,7 +58,6 @@ $${\color{red} # EDUCATIONAL:}$$
 - https://www.artstation.com/artwork/39b6zY
 
 
-$${\color{green}
 ---
 
 # Reference
@@ -85,9 +84,8 @@ $${\color{green}
 - https://felixcolgrave.myportfolio.com/
 - https://www.pixar.com/
 
-}$$
 
-$${\color{blue}
+
 ---
 
 #Assets
@@ -149,7 +147,7 @@ $${\color{blue}
 - https://zarism.gumroad.com/l/lphnv
 - https://www.glennmeling.com/photo-and-photoshop
 
-}$$
+
 ---
 
 # Blender:
