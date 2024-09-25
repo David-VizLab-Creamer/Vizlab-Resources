@@ -6,7 +6,7 @@
 # Reference
 > 	A collection of 
 > [Reference](https://github.com/JettTurnerViz/Vizlab-Resources/blob/main/Refernce.md)
-> for material shading, anatomy, and animation
+> for material shading, anatomy, topology, and animation
 
 # Assets
 > a list of the best
