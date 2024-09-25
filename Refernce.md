@@ -9,6 +9,7 @@
 > - https://www.artstation.com/georgezaky108
 > - https://www.artstation.com/anatomy4sculptors
 > ## Character Sculpting
+> - https://www.artstation.com/donchuan3d
 > - https://www.artstation.com/follygon
 > - https://www.artstation.com/tlsalswjddd
 > - https://www.artstation.com/castroanimationstudio
