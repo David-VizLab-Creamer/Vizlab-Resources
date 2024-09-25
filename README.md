@@ -1,5 +1,4 @@
-$${\color{red}
-# EDUCATIONAL:
+$${\color{red} # EDUCATIONAL:}$$
 ## Cinematography / Lighting / Compositing
 - https://chrisbrejon.com/cg-cinematography/
 - https://compositingmentor.com/2019/06/30/blacksmatch/
@@ -57,7 +56,7 @@ $${\color{red}
 - https://www.artstation.com/artwork/zPwlwm (The best car modeler I have ever seen)
 ## Intro to Simulating Character
 - https://www.artstation.com/artwork/39b6zY
-}$$
+
 
 $${\color{green}
 ---
