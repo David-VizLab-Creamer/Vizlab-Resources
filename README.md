@@ -164,16 +164,16 @@
 > - https://blendermarket.com/
 	
 > ## Best and Essential PLUGINS:
-> ### Built IN----------
+> ### Built in
 > - Import images as planes (Built in)
 > - Riggify (Built in)
 > - Node Wragnler (Built in)
 > - LoopTools (Built in)
-> ### Essential----------
+> ### Essential
 > - https://github.com/vvoovv/blosm
 > - https://github.com/stuffmatic/fSpy-Blender
 > - https://tinynocky.gumroad.com/l/tinyeye
-> ### Fantastic----------
+> ### Fantastic
 > - https://github.com/EatTheFuture/camera_shakify
 > - https://github.com/EatTheFuture/compify
 > - https://github.com/EatTheFuture/camera_projector
@@ -187,13 +187,13 @@
 > - https://follygon.com/products/modmesh-modular-base-meshes
 	
 > ## Asset Libraries to get:
-> ### Polyhaven----
+> ### Polyhaven
 > - https://github.com/Poly-Haven/polyhavenassets
-> ### Quixel----
+> ### Quixel
 > - https://quixel.com/plugins/
-> ### AmbientCG----
+> ### AmbientCG
 > - https://codeofart.gumroad.com/l/EasyPBR
-> ### FreePoly-----
+> ### FreePoly
 > - https://www.freepoly.org/
 > - https://blendermarket.com/products/freepoly?search_id=28883725
 	
