@@ -61,7 +61,7 @@
 
 
 # Reference
-> ## Materials INFO
+> ## Materials Info
 > - https://physicallybased.info/
 > - https://spectraldb.com/
 > - https://midimagic.sgc-hosting.com/huvision.htm
