@@ -51,6 +51,7 @@
 > ## Making Modular Kits For Environmetns
 > - https://www.youtube.com/watch?v=77xPHfzciiY
 > ## The Stylized Character Workflow
+> - https://www.artstation.com/artwork/8bQ5aO
 > - https://www.youtube.com/watch?v=f-mx-Jfx9lA
 > ## Hard Surface Modeling
 > - https://www.artstation.com/artwork/zPwlwm (The best car modeler I have ever seen)
